@@ -234,4 +234,4 @@ This repository serves as the official landing page for OtsDJ. The software is d
 **Get the most recent version of OtsDJ today!**
 
 ---
-**Last updated:** 2026-09-30 20:43:02 UTC
+**Last updated:** 2026-10-01 00:27:35 UTC
